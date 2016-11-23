@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.main {
+    margin: 16px 0px;
+    height: 100%;
+}
+
+.content-left-lv1{
+  height: 25vh;
+  background: #80c2dc;
+}
+
+.content-right-lv1{
+  height: 25vh;
+  background: #df9302;
+}
+
+.content-second-level{
+  height: 75vh;
+  background: #fd7336;
+  margin: 16px 8px;
+}
+
+.content-third-level{
+  background: #ecef57;
+  height: 50vh;
+  margin: 8px 8px;
+}
+
+.content-forth-level{
+  background: #ebc1d2;
+  height: 25vh;
+  margin: 8px 8px;
+}
